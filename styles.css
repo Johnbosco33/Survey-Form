@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://www.rightnetworks.com/wp-content/uploads/Confessions-of-a-tech-guy-March-image.png);
+   margin: 0 auto;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center; 
+   }
+   
+   div {
+      background: linear-gradient(rgba(255, 127, 0, 0.5), rgba(127, 0, 255, 1.5));
+   width: 500px;
+   min-width: 300px;
+margin: 50px 0 20px 450px;
+height: 800px;
+padding: 0 30px;
+border-radius: 10px;
+
+}
+   
+   header {
+     text-align: center;
+     
+   }
+   
+   label {
+     display: block;
+   margin: 0.5rem 0;  
+   }
+   
+   p {
+     font-style: italic;
+   }
+   
+   fieldset {
+     border: none;
+   }
+   
+   h1 {
+    font-style: oblique;
+    font-weight: bolder;
+  margin-top: 5px; 
+  }
+
+   .inline {
+    width: 350px;
+    margin: 0.5rem 0;
+   }
+
+   .submit {
+    margin: 15px 0 20px 200px;
+    width: 100px;
